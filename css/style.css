@@ -70,7 +70,7 @@ body{
     margin-top: 3px;
 }
 
-.contenuto-main{
+.sezione{
     padding-left: 50px;
     padding-top: 30px;
     font-family: 'Lato', sans-serif;
@@ -82,8 +82,73 @@ ul{
     list-style: none;
 }
 
+.check{
+    color: green;
+    border-radius: 50%;
+    border: 1px solid green;
+    padding: 2px 4px;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.check-cross{
+    color: red;
+    border-radius: 50%;
+    border: 1px solid red;
+    padding: 2px 5px;
+    font-size: 10px;
+    margin-right: 10px;
+}
+
 .celeste{
     background-color: #48ADF0;
     border-radius: 10px;
     color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+
+.viola{
+    background-color: #9C72E4;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+
+.verde{
+    background-color: #64C0A9;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+
+.arancione{
+    background-color: #F29E33;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+
+.rosa{
+    background-color: #D863A1;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+
+.verdechiaro{
+    background-color: #B2Ca2A;
+    border-radius: 10px;
+    color: white;
+    padding: 7px;
+    font-size: 12px;
+}
+
+li{
+    margin-top: 10px;
+    margin-bottom: 25px;
 }
