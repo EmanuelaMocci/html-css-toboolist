@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F6F8F9;
+}
+
+/* Header */
+
+.titolo{
+    color #051A34;
+    font-family: 'Lato', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo{
+    vertical-align: middle;
+}
+
+.contenitore-header{
+    background-color: white;
+    height: 80px;
+    padding: 10px;
+}
