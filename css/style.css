@@ -30,11 +30,13 @@ body{
 /* main */
 
 .contenitore-button{
-    height: 100px;
+    /* height: 100px; */
     max-width: 900px;
     margin: auto;
     background-color: white;
     margin-top: 50px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 
 .contenitore-main{
@@ -43,4 +45,23 @@ body{
     margin: auto;
     background-color: white;
     margin-top: 3px;
+}
+
+.button-task{
+    background-color: #48ADF0;
+    border-radius: 5px;
+    color: white;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+.button-section{
+    background-color: white;
+    border-radius: 5px;
+    padding: 8px;
+    color: lightgrey;
+    border: 1px solid lightgrey;
 }
