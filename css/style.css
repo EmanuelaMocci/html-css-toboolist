@@ -8,7 +8,7 @@ body{
     background-color: #F6F8F9;
 }
 
-/* Header */
+/* header */
 
 .titolo{
     color #051A34;
@@ -25,4 +25,22 @@ body{
     background-color: white;
     height: 80px;
     padding: 10px;
+}
+
+/* main */
+
+.contenitore-button{
+    height: 100px;
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.contenitore-main{
+    height: 600px;
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    margin-top: 3px;
 }
